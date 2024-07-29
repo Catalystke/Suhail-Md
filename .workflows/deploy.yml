@@ -1,4 +1,4 @@
-on:
+on:GHOST-MD
   push:
     branches:
       - main
